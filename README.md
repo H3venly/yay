@@ -10,7 +10,7 @@ w2i
 
 ⋆˚꩜｡
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3173iffdarvtl55j7xydqt3bmmkm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=7d9735&interchange=false&profanity=false&mode=dark&bar_color=92b14e&bar_color_cover=false)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3173iffdarvtl55j7xydqt3bmmkm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=7d9735&interchange=false&profanity=false&mode=dark&bar_color=92b14e&bar_color_cover=false)
 
 
 "If just being born is the greatest act of creation, then what are you supposed to do after that? Isn't everything that comes next sort of a disappointment- slowly entropy-ing until we deflate into a pile of mush?" 
