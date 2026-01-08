@@ -12,5 +12,4 @@ c * h heavily ♡ w2i
 
 Creds 2 Rowan 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3173iffdarvtl55j7xydqt3bmmkm)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3173iffdarvtl55j7xydqt3bmmkm&cover_image=true&theme=default&show_offline=false&background_color=ffebeb&interchange=false&profanity=false&bar_color=ffd6f2)](https://github.com/kittinan/spotify-github-profile)
