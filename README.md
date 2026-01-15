@@ -18,7 +18,7 @@ w2i
 
 
 
-"If just being born is the greatest act of creation, then what are you supposed to do after that? Isn't everything that comes next sort of a disappointment- slowly entropy-ing until we deflate into a pile of mush?" 
+"I want to erase the tears of all those who trusted in hope. I want them to be left with a smile on their faces" 
 
 
 
