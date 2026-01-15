@@ -18,7 +18,7 @@ w2i
 
 
 
-"I want to erase the tears of all those who trusted in hope. I want them to be left with a smile on their faces" 
+"If someone ever tells me it's a mistake to have hope, well, then, I'll just tell them they're wrong. And I'll keep telling them 'til they believe! No matter how many times it takes."
 
 
 
