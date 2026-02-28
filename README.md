@@ -7,7 +7,6 @@
 
 ![770789fcfc5b4e06572763e23b727f8a](https://github.com/user-attachments/assets/20f733b6-0a0c-4ed9-8da9-e62345c74817) 
 
- Nagito Yumeshipper, doubles dni  (╥﹏╥)
 
 
 ![](https://komarev.com/ghpvc/?username=h3venly4&label=୨ৎ&color=eb3f73&style=plastic)
